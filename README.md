@@ -15,6 +15,6 @@
 12. Provide path to SNAP's **gpt**.
 13. Make **bin** folder of **snap2stampspy3** your current working directory at the command prompt.
 14. Execute python files as: python filename.py configuration\_filename.conf (e.g. `python split\_multi\_swaths\_master\_sw.py asc\_2017\_2019\_multi\_ms.conf`).
-15. For processing **single swath**, execute Python files sequentially: *1.* split\_multi\_swaths\_master\_sw.py; *2.* split\_multi\_swaths\_slaves\_sw.py; *3.* coreg\_ifg\_topsar_multi\_swaths\_sw.py
+15. For processing **single swath**, execute Python files sequentially: ***1.*** split\_multi\_swaths\_master\_sw.py; *2.* split\_multi\_swaths\_slaves\_sw.py; *3.* coreg\_ifg\_topsar_multi\_swaths\_sw.py
 16. For processing **multiple swaths**, execute Python files sequentially: _1._ split\_multi\_swaths\_master\_sw.py; _2._ split\_multi\_swaths\_slaves\_sw.py; _3._ merge\_multi\_swaths.py; _4._ coreg\_ifg\_topsar_multi\_swaths\_sw.py
 
