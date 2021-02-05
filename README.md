@@ -17,3 +17,5 @@
 14. For processing **single swath**, execute Python files sequentially: ***1.*** split\_multi\_swaths\_master\_sw.py; ***2.*** split\_multi\_swaths\_slaves\_sw.py; ***3.*** coreg\_ifg\_topsar_multi\_swaths\_sw.py
 15. For processing **multiple swaths**, execute Python files sequentially: ***1.*** split\_multi\_swaths\_master\_sw.py; ***2.*** split\_multi\_swaths\_slaves\_sw.py; ***3.*** merge\_multi\_swaths.py; ***4.*** coreg\_ifg\_topsar_multi\_swaths\_sw.py
 
+**Note** Do not bother about other codes. They are for _StaMPS_ workflows.
+
