@@ -1,16 +1,9 @@
-### Python script to use SNAP as InSAR processor compatible with StaMPS PSI processing
-# Author Jose Manuel Delgado Blasco
-# Date: 21/06/2018
-# Version: 1.0
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct  4 16:38:04 2020
 
-# Step 1 : preparing slaves in folder structure
-# Step 2 : TOPSAR Splitting (Assembling) and Apply Orbit
-# Step 3 : Coregistration and Interferogram generation
-# Step 4 : StaMPS export
-
-# Added option for CACHE and CPU specification by user
-# Planned support for DEM selection and ORBIT type selection 
-
+@author: Sonam
+"""
 
 import os
 import sys
