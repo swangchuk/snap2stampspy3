@@ -1,1 +1,0 @@
-# snap2stampspy3
